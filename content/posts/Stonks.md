@@ -36,13 +36,6 @@ Pessoas que desejam organizar suas finanças pessoais de forma prática, simples
 | TailwindCSS              | Estilização moderna              |               |
 | Oracle Cloud Object Storage | Hospedagem do frontend       |
 
-## Capturas de tela
-
-<div align="center">
-  <img src="dashboard.png" alt="Tela de Dashboard" width="60%">
-  <p><em>Tela de Dashboard do Stonks</em></p>
-</div>
-
 ## Como acessar
 
 Você pode acessar o Stonks diretamente pelo navegador:

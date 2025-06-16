@@ -6,7 +6,7 @@ featured_image: stonks-banner.png
 summary: Um sistema completo de controle financeiro pessoal que permite registrar receitas, despesas, definir metas, acompanhar relatórios e organizar sua vida financeira de forma intuitiva.
 author: Juliano da Mota Ferreira Antunes, Jorge Maluf
 categories: Blog
-tags: ["Finanças", "Controle Financeiro", "WebApp", "Node.js", "MySQL", "Tecnologia", "Educação"]
+tags: ["Tecnologia", "ES", Educação"]
 
 linkweb: https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr6rp4htmbtt/b/stonks2/o/login.html
 ---
